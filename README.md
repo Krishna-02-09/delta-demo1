@@ -6,3 +6,6 @@ shraddha khapra
 
 # student
 Krishna gurjar
+
+# Subject
+B.tech
